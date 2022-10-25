@@ -22,7 +22,8 @@
 
 ## level 2
 
--   [소수찾기]()
+-   [소수찾기](https://github.com/seoyoung-dev/codingTest/blob/main/programmers/level%202/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.md)
+-   [타겟넘버](https://github.com/seoyoung-dev/codingTest/blob/main/programmers/level%202/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.md)
     <br>
     <br>
     <br>
