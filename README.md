@@ -26,6 +26,8 @@
 -   [소수찾기](https://github.com/seoyoung-dev/codingTest/blob/main/programmers/level%202/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.md)
 -   [타겟넘버](https://github.com/seoyoung-dev/codingTest/blob/main/programmers/level%202/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.md)
 -   [카펫](https://github.com/seoyoung-dev/codingTest/blob/main/programmers/level%202/%EC%B9%B4%ED%8E%AB.md)
+-   [👿 124 나라의 숫자](https://github.com/seoyoung-dev/codingTest/blob/main/programmers/level%202/124%EB%82%98%EB%9D%BC%EC%9D%98%EC%88%AB%EC%9E%90.md)
+
     <br>
     <br>
     <br>
